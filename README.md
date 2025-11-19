@@ -13,3 +13,6 @@ int main() {
     
     return 0;
 }
+
+
+C:\mingw64\mingw64\bin\gcc.exe main.c -o test_program.exe
