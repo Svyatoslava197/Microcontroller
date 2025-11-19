@@ -16,3 +16,6 @@ int main() {
 
 
 C:\mingw64\mingw64\bin\gcc.exe main.c -o test_program.exe
+
+
+.\test_program.exe
